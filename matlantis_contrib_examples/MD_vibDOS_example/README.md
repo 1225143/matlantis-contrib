@@ -1,4 +1,4 @@
-# Calculate vibrational density of states using MD trajectories.
+# Calculate vibrational density of states using velocity autocorrelation functions.
 
 1. setup.ipynb
 2. run_MD.ipynb
